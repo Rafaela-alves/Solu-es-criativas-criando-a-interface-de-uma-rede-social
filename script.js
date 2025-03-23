@@ -1,12 +1,12 @@
 let audios = [
-    {caminho:'anacastela.mp3', legenda:'AnaCastela'},
+    {caminho:'anacastela.mp3', legenda:'Ana Castela'},
     {caminho:'cristiano.mp3', legenda:'Cristiano'},
-    {caminho:'henriqueejuliano'.mp3', legenda:'henriqueejuliano'},
-    {caminho:'hugoeguilerme.mp3', legenda:'hugoeguilerme'},
-    {caminho:'jorgeematheus.mp3', legenda:'jorgeematheus'},
-    {caminho:'amordeverdade.mp3', legenda:'amordeverdade'},
+    {caminho:'henriqueejuliano'.mp3', legenda:'henrique e juliano'},
+    {caminho:'hugoeguilerme.mp3', legenda:'hugo e guilerme'},
+    {caminho:'jorgeematheus.mp3', legenda:'jorge e matheus'},
+    {caminho:'amordeverdade.mp3', legenda:'amor de verdade'},
     {caminho:'marilia.mp3', legenda:'marilia'},
-    {caminho:'meuamor.mp3', legenda:'meuamor'},
+    {caminho:'meuamor.mp3', legenda:'meu amor'},
     {caminho:'Paula Fernandes.mp3', legenda:'Paula Fernandes'},
 ];
 
